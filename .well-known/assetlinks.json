@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.canadiabank.mobileapp.android",
+               "sha256_cert_fingerprints": ["19:60:FE:92:6C:E1:EE:5C:EF:EB:0D:E8:65:23:CF:37:FF:82:34:CC:63:FF:DD:B2:02:7D:9D:5F:1E:FB:C3:56"] }
+}]
